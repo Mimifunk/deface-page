@@ -11,3 +11,9 @@
   <a href="https://github.com/Mimifunk/deface-page">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Mimifunk.deface-page" /></a>
   </a> 
+
+## 〢 :gear: How to install 
+```bash
+1. git clone https://github.com/Mimifunk/deface-page
+```
+## 〢 :bat: Preview
